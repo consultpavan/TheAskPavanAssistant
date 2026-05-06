@@ -164,3 +164,4 @@ Websocket:
 - Dedicated test suite (backend + frontend).
 - Containerized local development (`docker-compose`).
 
+# TheAskPavanAssistant
